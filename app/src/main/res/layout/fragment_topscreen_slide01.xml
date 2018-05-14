@@ -63,6 +63,7 @@
                     android:textColor="@color/all_colorWhite"
                     android:textSize="@dimen/fontSize_14"/>
 
+
             </LinearLayout>
         </RelativeLayout>
     </LinearLayout>
